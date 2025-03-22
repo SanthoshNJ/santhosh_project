@@ -1,4 +1,5 @@
 📚 Library Management System
+
 A Django REST Framework (DRF) based Library Management System that allows admins to manage books and users to browse available books. This project follows RESTful API principles and includes authentication, role-based access, and CRUD operations.
 
 🚀 Features
