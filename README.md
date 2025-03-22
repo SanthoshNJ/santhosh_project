@@ -19,9 +19,15 @@ A Django REST Framework (DRF) based Library Management System that allows admins
 📜 API Endpoints
 
 Method	Endpoint -	Description
+
 GET	/api/books/ -	Get all books
+
 POST	/api/books/ -	Add a new book
+
 GET	/api/books/<id>/ -	Get details of a book
+
 PUT	/api/books/<id>/ -	Update a book
+
 DELETE	/api/books/<id>/ -	Delete a book
+
 GET	/api/admin-dashboard/ -	Admin Dashboard (JWT Protected)
