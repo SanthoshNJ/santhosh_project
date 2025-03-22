@@ -16,6 +16,14 @@ A Django REST Framework (DRF) based Library Management System that allows admins
 
 ✅ Docker Support – Optional containerization for easy deployment
 
+📌 Technologies Used
+
+Django 🐍
+
+Django REST Framework (DRF)
+
+JWT Authentication
+
 📜 API Endpoints
 
 Method	Endpoint -	Description
